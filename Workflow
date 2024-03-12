@@ -1,2 +1,2 @@
-1)implement CudFF for data preprocessing
+1)implement CudFF for data preprocessing-merge all parquet training files
 2)implement CudFF and Rapids CuML for Kmeans_clustering
